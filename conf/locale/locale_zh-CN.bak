@@ -1,13 +1,13 @@
-name = 求诸几的博客
-tag_line = 求诸几的技术博客
+name = 一魂文档
+tag_line = 一款支持多语言的 Web 文档服务器
 
 [navbar]
 docs = 查看文档
 
 [home]
-title = 求诸几
-tag_line = 一个会很酷的男人
-get_started = 进入博客
+title = 一魂文档
+tag_line = 一款支持多语言的 Web 文档服务器
+get_started = 开始使用
 
 multilingual = 多语言支持
 multilingual_desc = 可即时切换多语言来为您的用户提供最佳的文档浏览体验，并可在下次访问时自动展示保存的语言偏好
